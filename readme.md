@@ -1,9 +1,8 @@
-# tytuł strony
+# Klikacz obrazkowy
 
+## opis
 lorem
 
-## podtytuł
+## licencja
+opis
 
-### podpodtytuł
-
-Zajrzyj [tutaj](https://websamuraj.pl)
